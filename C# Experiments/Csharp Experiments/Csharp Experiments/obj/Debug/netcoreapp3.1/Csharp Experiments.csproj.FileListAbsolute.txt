@@ -1,0 +1,26 @@
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.exe
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.deps.json
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.runtimeconfig.json
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.runtimeconfig.dev.json
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.dll
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.pdb
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.csprojAssemblyReference.cache
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.AssemblyInfoInputs.cache
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.AssemblyInfo.cs
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.csproj.CoreCompileInputs.cache
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.dll
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.pdb
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.genruntimeconfig.cache
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.exe
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.deps.json
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.runtimeconfig.json
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.runtimeconfig.dev.json
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.dll
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\bin\Debug\netcoreapp3.1\Csharp Experiments.pdb
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.csprojAssemblyReference.cache
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.AssemblyInfoInputs.cache
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.AssemblyInfo.cs
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.csproj.CoreCompileInputs.cache
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.dll
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.pdb
+C:\Users\ArjunIsCool\Desktop\C# Experiments\Csharp Experiments\obj\Debug\netcoreapp3.1\Csharp Experiments.genruntimeconfig.cache
